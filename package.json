@@ -96,7 +96,7 @@
   },
   "optionalDependencies": {
     "firmata": ">=0.2.9",
-    "serialport": "latest",
+    "serialport": "1.3.1",
     "galileo-io": "latest"
   },
   "devDependencies": {
