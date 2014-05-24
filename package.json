@@ -96,7 +96,7 @@
   },
   "optionalDependencies": {
     "firmata": ">=0.2.9",
-    "serialport": "git+https://git@github.com/jacoblwe20/serialport.git",
+    "serialport": "git+https://git@github.com/jacoblwe20/node-serialport.git",
     "galileo-io": "latest"
   },
   "devDependencies": {
